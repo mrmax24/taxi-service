@@ -1,0 +1,20 @@
+.header-block {
+    width: 72%;
+    margin: 10px auto;
+    background-color: #fff;
+}
+.header-menu a {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    color: black;
+    margin: 20px 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.header-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+}
+.header-menu li{
+    display: inline;
+}
