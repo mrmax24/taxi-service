@@ -1,9 +1,8 @@
 # Taxi-Service <img src="C:\Users\MAX\IdeaProjects\taxi-service\taxi-logo-5.png" align="right"/>
 
 ## Project description:
-```http
 A simple web-application that supports authentication, registration and basic features of the taxi service.
-```
+
 #### [Link to the project on Heroku](https://simple-taxi.herokuapp.com)
 ## Features:
 - registration like a driver;
