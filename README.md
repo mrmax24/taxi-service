@@ -1,4 +1,4 @@
-# Taxi-Service <img src="C:\Users\MAX\IdeaProjects\taxi-service\taxi-logo-5.png" align="right"/>
+# Taxi-Service <img src="https://github.com/mrmax24/taxi-service/blob/main/taxi-logo-5.png"/>
 
 ## Project description:
 A simple web-application that supports authentication, registration and basic features of the taxi service.
