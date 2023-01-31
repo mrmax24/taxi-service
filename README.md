@@ -1,7 +1,10 @@
 # Taxi-Service <img src="https://github.com/mrmax24/taxi-service/blob/main/taxi-logo-5.png" align="right"/>
 
 ## Project description:
-A simple web-application that supports authentication, registration and basic features of the taxi service.
+```bash
+A simple web-application that supports authentication,
+registration and basic features of the taxi service.
+```
 
 #### [Link to the project on Heroku](https://powerful-bayou-72075.herokuapp.com/login)
 ## Features:
