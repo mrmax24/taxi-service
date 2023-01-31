@@ -7,7 +7,7 @@ import java.util.Properties;
 
 public class ConnectionUtil {
     private static final String URL =
-            "jdbc:mysql://bc90459fde4a73:63f814ad@us-cdbr-east-06.cleardb.net/heroku_bb1c62b283b50d2?reconnect=true";
+            "jdbc:mysql://us-cdbr-east-06.cleardb.net:3306/heroku_bb1c62b283b50d2?useUnicode=true&serverTimezone=UTC";
     private static final String USERNAME = "bc90459fde4a73";
     private static final String PASSWORD = "63f814ad";
     private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
