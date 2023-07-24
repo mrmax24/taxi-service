@@ -1,4 +1,4 @@
-# Taxi-Service <img src="https://github.com/mrmax24/taxi-service/blob/main/taxi-logo-5.png" align="right"/>
+# Taxi-Service <img src="https://github.com/mrmax24/taxi-service/blob/main/src/main/resources/taxi.gif?raw=true" style="border-radius:8px;" align="center" width=65px>
 
 ## Project description:
 ```bash
